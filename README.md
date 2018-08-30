@@ -1,2 +1,3 @@
 # Exercice_OpenClassrooms
-Mise en Pratique des cours sur Git et Github OpenClassrooms
+Mettre en pratique les cours sur Git et Github OpenClassrooms
+Put the Git and GitHub OpenClassroom's courses into practice
