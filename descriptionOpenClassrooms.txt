@@ -1,0 +1,3 @@
+OpenClassrooms est une école en ligne qui propose à ses membres des cours certifiants et des parcours débouchant sur un métier d'avenir, réalisés en interne, par des écoles, des universités, ou encore par des entreprises partenaires 
+comme Microsoft ou IBM. Jusqu'en 2018, n'importe quel membre du site pouvait être auteur, via un outil nommé "Course Lab". De nombreux cours sont issus de la communauté, mais ne sont plus mis en avant. Initialement orientée autour de la 
+programmation informatique, la plate-forme couvre depuis 2013 des thématiques plus larges tels que le marketing, l'entrepreneuriat et les sciences.
